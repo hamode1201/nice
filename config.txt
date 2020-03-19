@@ -1,0 +1,6 @@
+﻿token=NjkwMTk4NzQwMTI3OTczMzkx.XnN8Hg._kQ6rSwpAm3BymX-7-N1rZilVXg
+owner=462726964663549963
+prefix= A
+game= play
+stayinchannel=true
+songinstatus=true 
